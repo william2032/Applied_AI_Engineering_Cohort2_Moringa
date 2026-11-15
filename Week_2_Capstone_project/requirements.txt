@@ -1,0 +1,20 @@
+# ============================================================
+# AFYAPLUS HEALTH - PROJECT DEPENDENCIES
+# ============================================================
+
+# AI agent orchestration and memory
+langchain
+langchain-core
+langchain-openai
+langgraph
+
+# RAG document retrieval and embeddings
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-openai-like
+
+# Environment configuration
+python-dotenv
+
+# Automated testing
+pytest
