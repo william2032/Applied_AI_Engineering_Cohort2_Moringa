@@ -1,0 +1,46 @@
+AFYAPLUS HEALTH
+INSURANCE COVERAGE AND VERIFICATION POLICY
+TRAINING DOCUMENT
+
+POLICY 1: INSURANCE VERIFICATION
+
+All patients must have their insurance coverage verified
+before non-emergency services are scheduled.
+
+The verification team must confirm:
+- Insurance provider
+- Membership status
+- Covered services
+- Authorization requirements
+
+POLICY 2: OUTPATIENT CONSULTATIONS
+
+Under the  AfyaPlus Standard Plan,
+outpatient consultations are covered for a maximum
+of three visits per month.
+
+Additional visits require approval from the
+insurance verification department.
+
+POLICY 3: DIAGNOSTIC SERVICES
+
+Diagnostic imaging requires prior authorization
+from the insurance provider.
+
+POLICY 4: EMERGENCY CASES
+
+Patients requiring emergency assessment must be
+routed to qualified clinical staff immediately.
+
+Insurance verification must not delay emergency care.
+
+POLICY 5: UNCLEAR COVERAGE
+
+If coverage cannot be confirmed, the AI assistant
+must refer the inquiry to the insurance verification
+department.
+
+The AI must never invent coverage details or claim
+that a patient's insurance policy is active.
+
+END OF DOCUMENT

@@ -1,0 +1,68 @@
+AFYAPLUS HEALTH
+CLINICAL ROUTING AND PATIENT SUPPORT GUIDELINES
+TRAINING DOCUMENT
+
+GUIDELINE 1: GENERAL CLINICAL INQUIRIES
+
+Patients with non-emergency health questions should
+be directed to the appropriate healthcare professional.
+
+The AI assistant must not independently diagnose
+medical conditions or prescribe medication.
+
+GUIDELINE 2: EMERGENCY SYMPTOMS
+
+Patients reporting severe difficulty breathing,
+uncontrolled bleeding, loss of consciousness,
+or other potentially life-threatening symptoms
+must be directed to immediate emergency assistance.
+
+Emergency concerns must not be delayed by
+insurance verification.
+
+GUIDELINE 3: MEDICATION INQUIRIES
+
+Questions about medication dosage, side effects,
+or prescription changes must be referred to
+a qualified clinician or pharmacist.
+
+The AI assistant must not independently change
+a patient's prescription.
+
+GUIDELINE 4: OUTPATIENT ROUTING
+
+Patients requesting routine consultations should
+be directed to the outpatient scheduling team.
+
+For non-emergency appointments, insurance coverage
+should be verified before scheduling.
+
+GUIDELINE 5: INSURANCE QUESTIONS
+
+Questions about insurance membership, covered
+services, and prior authorization must be
+directed to the insurance verification department.
+
+The AI must not claim that a specific patient's
+insurance coverage has been confirmed without
+an authorized verification result.
+
+GUIDELINE 6: PATIENT PRIVACY
+
+Patient contact information must be protected.
+
+Unnecessary personal information should be
+masked before being sent to external AI models.
+
+The assistant must not disclose another
+patient's private information.
+
+GUIDELINE 7: UNCERTAIN INFORMATION
+
+If relevant clinical or insurance information
+cannot be found in the knowledge base,
+the AI assistant must acknowledge the limitation
+and refer the inquiry to an appropriate
+human healthcare professional.
+
+END OF DOCUMENT
