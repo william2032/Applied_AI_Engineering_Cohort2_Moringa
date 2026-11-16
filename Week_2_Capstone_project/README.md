@@ -18,9 +18,7 @@ The system combines:
 - Privacy masking for personal contact information
 - Controlled output de-masking
 
-**Disclaimer:** This is a fictional educational system, not
-a production healthcare application. It cannot verify real
-insurance eligibility, diagnose conditions, or file claims.
+
 
 ### 2. System Architecture
 
